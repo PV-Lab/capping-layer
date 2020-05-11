@@ -1,0 +1,7 @@
+compound,Concentration (mM),Annealing T,Molecular Weight,# C atom,# H atom,# Br atom,# I atom,# N atom,# H-bond Donor,# Rotatable Bond,Top. Polar Surface Area,# Heavy Atom,Complexity,Partition Coeff.
+benzylphosphonic acid,0.05,100,172.12,7,9,0,0,0,2,2,57.5,11,157,-0.1
+4-Cyanobenzyl phosphonic acid,0.05,100,197.13,8,8,0,0,1,2,2,81.3,13,256,-0.4
+Theophylline,10,100,180.16,7,8,0,0,4,1,0,69.3,13,267,0
+Caffeine,10,100,194.19,8,10,0,0,4,0,0,58.4,14,293,-0.1
+Theobromine,10,100,180.16,7,8,0,0,4,1,0,67.2,13,267,-0.8
+PTEAI,10,100,305.203,12,20,0,1,1,0,4,0,14,124,2.9
