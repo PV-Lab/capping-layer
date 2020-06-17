@@ -48,7 +48,7 @@ We evaluate the algorithms using a 5-fold cross-validation RMSE.
 
 # Workflow
 
-There are 3 Jupyter notebook files: the normalized input (*X*), the non-normalized input (*X*), and the non-normalized input (*X*) and excluding PTEAI. The workflow is the following:
+There are 3 Jupyter notebook files: the normalized input (SHAP_std.ipynb), the non-normalized input (SHAP_nonstd.ipynb), and the non-normalized input and excluding PTEAI (SHAP_nonstd_excPTEAI.ipynb). The workflow is the following:
 1. We start by loading the data, both the input (*X*) and the output (*y*).
 2. We split the train and test data in 80% : 20% ratio (using scikit-learn).
 3. For the normalized input, we pre-process the data (using scikit-learn).
